@@ -34,7 +34,6 @@ discrete pieces of business logic off the UI thread.
 * Navigation Component
 * Kotlin Coroutines
 * Kotlin Flow
-* Open Street Map
 * ViewModel
 * Hilt
 * MVVM
